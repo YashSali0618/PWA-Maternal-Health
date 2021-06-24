@@ -1,7 +1,7 @@
 {
     "name": "Way to Maternal Health Improvement PWA",
     "short_name": "Maternal Health PWA",
-    "start_url": "index.html",
+    "start_url": ".",
     "background_color": "#3b8af2",
     "theme_color": "#106eea",
     "display": "standalone",
